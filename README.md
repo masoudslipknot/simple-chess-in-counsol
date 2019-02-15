@@ -9,6 +9,6 @@ In order to select one item of the board you need to push the P buttom. <br>
 
 You can save the game and load your previous saves. <br>
 
-Also, for every move you have 30s to move.
+Also, for every move you have 30s to take.
 
 
